@@ -6,12 +6,13 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
 - [x] Foto de perfil
 - [x] Descrição rápida
 - [x] Lista de habilidades
-- [ ] Criar uma seção para cada habilidade  
+- [x] Criar uma seção para cada habilidade  
         a- título geral  
         b- título específico  
         c- descrição da experiência  
         d- fotos como prova da experiência  
-- [ ] Criar navegação interna para habilidades
+        e- breve descrição da experiência
+- [x] Criar navegação interna para habilidades
 - [ ] Criar uma seção de referências profissionais com link externos  
         a- título geral  
         b- título específico  
