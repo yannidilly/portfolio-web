@@ -18,6 +18,6 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
         b- título específico  
         c- fotos com link externo  
         d- descrição do porquê me inspira
-- [ ] Adicionar trechos em negrito e itálico
+- [x] Adicionar trechos em negrito e itálico
 
 - [ ] Estilizar com css
