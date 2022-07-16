@@ -19,6 +19,6 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
         c- fotos com link externo  
         d- descrição do porquê me inspira
 - [x] Adicionar trechos em negrito e itálico
-- [ ] Criar rodapé com informações para contato
+- [x] Criar rodapé com informações para contato
 
 - [ ] Estilizar com css
