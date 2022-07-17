@@ -26,6 +26,12 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
 - [x] Defina fontes diferentes para o seu nome e para a descrição que você criou
 - [x] Defina uma cor base de background do seu Portfólio Web
 - [x] Altere o estilo das tags que você usou para destacar algumas informações
+- [ ] Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos
+- [ ] A descrição deve ficar ao lado da foto
+- [x] Centralize seu nome na página
+- [ ] Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página
+- [ ] Adicione margin e padding nos elementos que julgar necessário
+- [ ] Coloque estilo somente nos itens ímpares da lista das suas habilidades
 
 ### Estilizar com css  
 - [x] Topo  
@@ -38,7 +44,7 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
 - [x] Seção de habilidades  
         a- colocar linhas nos subtítulos
         b- colocar bordas nas imagens de prova
-- [ ] Seção de referências  
+- [x] Seção de referências  
         a- colocar linhas nos subtítulos
 
 ### Organizar bordas e posicionamentos com css
