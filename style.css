@@ -4,6 +4,16 @@ body{
     background-color: azure;
     font-family: 'Open Sans', sans-serif;
 }
+
+/*tags gerais no conteúdo*/
+li em{
+    text-decoration: underline;
+}
+strong{
+    color: rgb(0, 112, 112)
+}
+
+/*topo do site*/
 h1{
     text-align: center;
     font-family: 'Barlow', sans-serif;
@@ -20,10 +30,11 @@ h1{
     margin-right: 10%;
 }
 
-/*tags gerais no conteúdo*/
-em{
-    text-decoration: underline;
+/*habilidades*/
+ul li a {
+    text-decoration: none;
+    line-height: 25px;
 }
-strong{
-    color: rgb(0, 112, 112)
+.prova{
+    border: 1px solid #00707A;
 }
