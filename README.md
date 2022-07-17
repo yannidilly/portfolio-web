@@ -32,10 +32,10 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
         a- centralizar título  
         b- centralizar foto  
         c- arredondar foto  
-[ ] Lista habilidades  
+- [x] Lista habilidades  
         a- retirar sublinhado  
         b- melhorar espaçamento  
-- [ ] Seção de habilidades  
+- [x] Seção de habilidades  
         a- colocar linhas nos subtítulos
         b- colocar bordas nas imagens de prova
 - [ ] Seção de referências  
