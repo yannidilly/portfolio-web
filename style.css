@@ -1,0 +1,18 @@
+body{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+h1{
+    text-align: center;
+}
+#foto-perfil{
+    text-align: center;
+}
+#img-foto-perfil{
+    border-radius: 50%;
+}
+#descrição{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
