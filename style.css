@@ -18,11 +18,13 @@ h1{
     text-align: center;
     font-family: 'Barlow', sans-serif;
 }
+
 #foto-perfil{
     text-align: center;
 }
 #img-foto-perfil{
     border-radius: 50%;
+    background-color: #004AAD;
 }
 #descrição{
     text-align: center;
