@@ -22,6 +22,12 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
 - [x] Adicionar trechos em negrito e itálico
 - [x] Criar rodapé com informações para contato
 
+### Requisitos Trybe
+- [ ] Defina fontes diferentes para o seu nome e para a descrição que você criou;
+- [x] Defina uma cor base de background do seu Portfólio Web;
+- [ ] Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
+- [ ] Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
+
 ### Estilizar com css  
 - [x] Topo  
         a- centralizar título  
@@ -32,6 +38,7 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
         b- melhorar espaçamento  
 - [ ] Seção de habilidades  
         a- colocar linhas nos subtítulos
+        b- colocar bordas nas imagens de prova
 - [ ] Seção de referências  
         a- colocar linhas nos subtítulos
 
