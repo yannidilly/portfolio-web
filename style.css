@@ -38,3 +38,8 @@ ul li a {
 .prova{
     border: 1px solid #00707A;
 }
+
+/*referências*/
+#referencias h3{
+    text-decoration: underline;
+}
