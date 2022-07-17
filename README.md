@@ -23,10 +23,9 @@ Aqui vou desenvolver meu portfólio web com programação a medida que for conqu
 - [x] Criar rodapé com informações para contato
 
 ### Requisitos Trybe
-- [ ] Defina fontes diferentes para o seu nome e para a descrição que você criou;
-- [x] Defina uma cor base de background do seu Portfólio Web;
-- [ ] Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
-- [ ] Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
+- [x] Defina fontes diferentes para o seu nome e para a descrição que você criou
+- [x] Defina uma cor base de background do seu Portfólio Web
+- [x] Altere o estilo das tags que você usou para destacar algumas informações
 
 ### Estilizar com css  
 - [x] Topo  

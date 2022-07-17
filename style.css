@@ -19,3 +19,11 @@ h1{
     margin-left: 10%;
     margin-right: 10%;
 }
+
+/*tags gerais no conteúdo*/
+em{
+    text-decoration: underline;
+}
+strong{
+    color: rgb(0, 112, 112)
+}
